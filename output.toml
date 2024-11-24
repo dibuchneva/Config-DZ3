@@ -1,0 +1,9 @@
+PI = 10
+GREETING = "Hello, World!"
+FINDMAX = 20
+array_example = [ "\"apple\"", ",", "\"banana\"", ",", "\"cherry\"",]
+
+[my_dict]
+name = "John"
+age = 30
+city = "New York"
