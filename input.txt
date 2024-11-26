@@ -1,5 +1,6 @@
 define PI = 10
 define GREETING = "Hello, World!"
 FINDMAX = @{max(10, 20)}
+PRINT = @{print("Hello", "banana")}
 array_example = ("apple", "banana", "cherry")
 my_dict = ["name" => "John", "age" => 30, "city" => "New York"]
